@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Computer Science And Engineering 
 - 💞️ I’m looking to collaborate on Intresting and challenging projects
 - 📫 How to reach me 
-- 😄 Pronouns: ...
+- 😄 Pronouns: She/Her
 - ⚡ Fun fact: ...
 
 <!---
